@@ -19,8 +19,6 @@ Järgmine päev sa otsustad talle helistada.
 Sa kutsud ta välja.
 Järgmine päev:
 Koolis on kontrolltöö, sul ei lähe kõige paremini aga saad 3-.
-Lähed koju ja teed end korda.
-Sa ei tea kas olla jutukas või 
 
 
 
@@ -29,3 +27,5 @@ Järgmine päev:
 Lähed pohmakaga kooli ja kukud kontrolltööst läbi.
 Õhtul jääd vanematele vahele, et olid viina pudeli ära joonud, jääd koduaresti.
 Kaotad elu tahte ja klassikaaslased soovitavad sul terapeudi juurde minna.
+
+Muuda ei valikut : Kui üks valik on ühes mõttes halb, siis teine võiks olla ühes mõttes parem !!!!!!!!!!!!!!!!!!!!!!!!!! nt jah läheb koolis halvasti, ei läheb koolis hästi
