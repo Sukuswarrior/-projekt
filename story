@@ -11,7 +11,7 @@ Teil hakkas tore seiklused klassis
 Te saite mõlemad sisse tartu tamme gümnaasiumisse, aga sina said IT-sse ja Valdis sai meditsiini suunda
 Saate koolis mõlemad häid hindeid ja hakkasite lõpuks õppima.
 Valdis sai endale tüdruku ja ta ei pööra sulle enam nii palju tähelepanu
-Sa mõtled, kas kättemaksta või oodata kuni ta sulle meelde tuleb, aga hetkel sa ei tee midagi.
+Sa mõtled, kas kättemaksta või oodata kuni ta sulle meelde tuleb, aga hetkel sa ei tee midagi. Kavatsesid taimi kasvatama hakkata.
 Järgmine päev Valdis helistab sulle ja küsib kas sa kinno tahad minna. saad vastata jah v ei
 
 Kui vastad jah: Lähete kinno veedate toredalt aega ja pärast lähete diskole.
@@ -29,4 +29,4 @@ Lähed kooli ja saad kontrolltöö 5.
 Kodus vanemad kiidavad sind, et oled ennast kokku võtnud.
 Sulle osteti oma kastekann, et sa saaksid oma taimi kasvatada.
 
-
+Ühel õhtul läksid taimi kastma
