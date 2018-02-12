@@ -13,6 +13,7 @@ Saate koolis mõlemad häid hindeid ja hakkasite lõpuks õppima.
 Valdis sai endale tüdruku ja ta ei pööra sulle enam nii palju tähelepanu
 Sa mõtled, kas kättemaksta või oodata kuni ta sulle meelde tuleb, aga hetkel sa ei tee midagi.
 Järgmine päev Valdis helistab sulle ja küsib kas sa kinno tahad minna. saad vastata jah v ei
+
 Kui vastad jah: Lähete kinno veedate toredalt aega ja pärast lähete diskole.
 Diskol kohtud ühe tüdrukuga ja sa said ta nr.
 Järgmine päev sa otsustad talle helistada.
