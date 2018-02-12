@@ -23,10 +23,10 @@ Koolis on kontrolltöö, sul ei lähe kõige paremini aga saad 3-.
 
 
 
-Kui vastad ei: Istud kodus ja hakkad viina suurest depresioonist jooma.
-Järgmine päev:
-Lähed pohmakaga kooli ja kukud kontrolltööst läbi.
-Õhtul jääd vanematele vahele, et olid viina pudeli ära joonud, jääd koduaresti.
-Kaotad elu tahte ja klassikaaslased soovitavad sul terapeudi juurde minna.
+Kui vastad ei: Istud kodus ja õpid kontroltööks.
+Esmaspäeval:
+Lähed kooli ja saad kontrolltöö 5.
+Kodus vanemad kiidavad sind, et oled ennast kokku võtnud.
+Sulle osteti oma kastekann, et sa saaksid oma taimi kasvatada.
 
-Muuda ei valikut : Kui üks valik on ühes mõttes halb, siis teine võiks olla ühes mõttes parem !!!!!!!!!!!!!!!!!!!!!!!!!! nt jah läheb koolis halvasti, ei läheb koolis hästi
+
